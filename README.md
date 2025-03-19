@@ -50,4 +50,3 @@ This Power BI dashboard enables businesses to make **informed decisions** by vis
 
 ---
 
-# Nall
